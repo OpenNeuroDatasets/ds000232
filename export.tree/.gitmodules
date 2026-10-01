@@ -1,6 +1,0 @@
-[submodule "code/facedistid_analysis"]
-	path = code/facedistid_analysis
-	url = git@github.com:jooh/facedistid_analysis.git
-[submodule "code/modeling"]
-	path = code/modeling
-	url = git@github.com:jooh/matlab-neuromodeling.git
